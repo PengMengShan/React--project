@@ -1,0 +1,43 @@
+
+.normal {
+
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.2em;
+    margin: 0 0 10px 0;
+    text-align: center;
+   
+
+}
+
+.container {
+    width:450px;
+    height: min-content;
+
+}
+
+.toOther {
+
+    float: right;
+    color:#333;
+
+}
+b{
+    color:#ccc;
+}
+b:hover{
+    color:red;
+}
+.button {
+    width: 50%;
+    left:25%;
+    margin-top: 40px;
+}
+.logo span{
+   color:#ccc;
+  font-size: 18px;
+}

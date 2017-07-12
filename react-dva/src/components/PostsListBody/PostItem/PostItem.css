@@ -1,0 +1,30 @@
+.panelContainer {
+    float: right;
+    height: 50px;
+    display: flex;
+}
+
+.cardContent {
+    display: flex;
+    align-items: center;
+}
+
+.commentNumber {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 3em;
+    border-right: 1px solid rgba(165, 165, 165, 0.31);
+    margin-right: 20px;
+    padding-right: 10px;
+}
+
+.tagGroup {
+    margin-left: 12px;
+}
+
+.toUser {
+    text-decoration: underline;
+}

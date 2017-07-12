@@ -1,0 +1,16 @@
+.icon {
+    margin-right: 5px;
+}
+
+.meta {
+    float: left;
+}
+
+.content {
+    margin: 5px 0;
+}
+
+.toUser {
+    text-decoration: underline;
+   /* color:red;*/
+}
