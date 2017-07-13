@@ -1,5 +1,6 @@
 # React--project
 一个react的小博客项目，可以注册，发帖，评论·····
+<a href="https://github.com/PengMengShan/React--project">点我下载</a>
 ## 视图
 ![overview1](react-dva/images/005.png)
 
